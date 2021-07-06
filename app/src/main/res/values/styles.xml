@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/dark_grey</item>
+        <item name="colorControlHighlight">@color/dark_grey</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:colorAccent">@color/dark_grey</item>
+        <item name="android:textColor">@color/dark_grey</item>
+        <item name="android:textColorPrimary">@color/dark_grey</item>
+        <item name="android:positiveButtonText">@color/dark_grey</item>
+        <item name="android:negativeButtonText">@color/dark_grey</item>
+    </style>
+
+</resources>

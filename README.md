@@ -1,2 +1,2 @@
 # Sticky-Tasks
-android app i made goofy
+Android app i made NOT FINISHED
